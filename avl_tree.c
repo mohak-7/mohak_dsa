@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// added a comment on line 6
 //  function to find the maximum of two numbers
 //  Input : two integers a and b
 //  Output : integer (maximum of a and b)
